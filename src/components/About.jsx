@@ -56,7 +56,7 @@ const About = () => {
           {/* Image Column */}
           <motion.div variants={itemVariants}>
             <motion.img
-              src="https://images.unsplash.com/photo-1544717305-2782549b5136?q=80&w=1200&auto=format&fit=crop"
+              src="https://res.cloudinary.com/dmpxni4ku/image/upload/v1758525266/Stiness/FB_IMG_1758524644760_ickzge.jpg"
               alt="Founder portrait"
               className="aspect-[4/5] w-full rounded-3xl object-cover shadow-md ring-1 ring-slate-200"
               whileHover={{ 

@@ -4,14 +4,9 @@
 
 
 /* Custom font family classes */
-@themes {
-  .font-fraunces {
-    font-family: 'Fraunces', serif;
-  }
-  
-  .font-manrope {
-    font-family: 'Manrope', sans-serif;
-  }
+@theme {
+  --font-fraunces: 'Fraunces', serif;
+  --font-manrope: 'Manrope', sans-serif;
 }
 
 /* Custom scrollbar */
